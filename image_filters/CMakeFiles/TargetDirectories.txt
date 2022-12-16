@@ -1,0 +1,3 @@
+/home/hassan/Desktop/image_filters/CMakeFiles/rebuild_cache.dir
+/home/hassan/Desktop/image_filters/CMakeFiles/edit_cache.dir
+/home/hassan/Desktop/image_filters/CMakeFiles/ImageFilters.dir
